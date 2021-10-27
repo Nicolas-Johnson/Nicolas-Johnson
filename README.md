@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 
-💻 I'm a Fortaleza based Full Satck Software Engineer. Open to work wherever you need me.
+💻 I'm a Brasil based Full Satck Software Engineer. Open to work wherever you need me.
 
 ### A bit about me:
 
