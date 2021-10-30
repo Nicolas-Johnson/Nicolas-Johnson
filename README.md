@@ -14,7 +14,8 @@
 
 A Self-taught die-Hard Full Satck Software Engineer based in Brasil.
 
-[Feel free to reach out and see what I'm up to now 💬](mailto: nicolas-sousa2011@hotmail.com)
+Feel free to reach out and see what I'm up to now 💬
+[send me a e-mail!](mailto: nicolas-sousa2011@hotmail.com)
 
 <div align="center" style="padding: 25px 0;">
     <a href="https://twitter.com/Nicolas_Silva16" style="padding: 24px;">
