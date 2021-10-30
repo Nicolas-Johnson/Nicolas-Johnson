@@ -1,6 +1,6 @@
 # Hey there, feel free to check out what I've been up to!
 
-## Full Stack Software Engineer
+## Full Stack Developer
 
 💻 I'm a Brasil based Full Satck Software Engineer. Open to work wherever you need me.
 
