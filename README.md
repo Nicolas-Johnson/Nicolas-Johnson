@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-💻 I'm a Brasil based Full Satck Software Engineer. Open to work wherever you need me.
+💻 I'm a Brasil based Full Satck developer. Open to work wherever you need me.
 
 ### A bit about me:
 
