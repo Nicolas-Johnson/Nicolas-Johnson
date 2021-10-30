@@ -10,7 +10,7 @@
 - Personal interests: 🥊 💪🏽 🏍 💻 🛫 
 - Current location: 📍 Fortaleza-Ce Brasil.
 
-🌎 Check my [portfolio](https://nicolas-johnson.github.io/)
+🌎 Check my [portfolio](https://safe-cliffs-01394.herokuapp.com/)
 
 A Self-taught die-Hard Full Satck Software Engineer based in Brasil.
 
