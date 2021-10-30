@@ -12,7 +12,7 @@
 
 🌎 Check my [portfolio](https://safe-cliffs-01394.herokuapp.com/)
 
-A Self-taught die-Hard Full Satck Software Engineer based in Brasil.
+A Self-taught die-Hard Full Satck developer based in Brasil.
 
 Feel free to reach out and see what I'm up to now 💬
 
